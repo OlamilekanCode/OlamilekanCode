@@ -1,54 +1,55 @@
 # Aliameen Adebukola Fatunbi Olamilekan
 
-**Full-Stack Developer & Software Engineer**  
-Lagos, Nigeria
+**Full-Stack Developer & Software Engineer** · Lagos, Nigeria
+Co-Founder & Frontend Engineer at **Idenva**
 
-I turn practical business and user problems into maintainable software—from responsive product interfaces and backend APIs to databases, authentication, third-party integrations, and deployment.
+I turn practical business and user problems into maintainable software — from responsive product interfaces and backend APIs to databases, authentication, third-party integrations, and deployment. My work centres on full-stack web products, backend systems, developer tooling, and AI-enabled application workflows.
 
-My work focuses on full-stack web products, backend systems, and AI-enabled application workflows.
+---
 
-## Selected Work
+## What I Build
 
-### [DevEntro](https://github.com/OlamilekanCode/DEVENTRO)
+**Product interfaces** — Responsive React and Next.js applications with real loading, empty, and error states, accessible forms, and component systems that survive more than one feature cycle.
 
-A publishing and AI-tools discovery platform that helps developers, freelancers, and tech learners evaluate tools, compare workflows, and find practical resources.
+**Backend systems and APIs** — REST services in Node.js, NestJS, FastAPI, and Laravel, with schema-first data modelling, migrations, and authentication and authorisation designed in from the start rather than bolted on.
 
-The platform includes an admin-managed publishing system, AI tools directory, media storage, newsletter capture, SEO infrastructure, and Cloudflare deployment.
+**Edge and serverless infrastructure** — Applications on Cloudflare Workers and Durable Objects, backed by D1 and R2, with SQLite-based persistence and deployment pipelines that ship on merge.
 
-**Technology:** Next.js, React, TypeScript, Tailwind CSS, Drizzle ORM, Cloudflare D1, Cloudflare R2, and OpenNext.
+**Integrations and webhooks** — Third-party service integration, webhook ingestion, signature verification, retry handling, and idempotency — the parts of a payment or commerce integration that fail quietly in production.
 
-[View repository](https://github.com/OlamilekanCode/DEVENTRO) 
+**AI-enabled features** — Model and API integrations, multimodal workflows, and AI features embedded into real product surfaces instead of bolted-on demos.
 
-### [Biometric Attendance Management System](https://github.com/OlamilekanCode/biometric-attendance-system)
-
-A local-first attendance platform for schools that supports fingerprint identification, student and course management, QR attendance links, optional location validation, and attendance reporting.
-
-The system integrates a React application and Node.js API with PostgreSQL, DigitalPersona fingerprint hardware, and a local .NET verification service.
-
-**Technology:** React, TypeScript, Node.js (Express), PostgreSQL, Prisma, .NET, and DigitalPersona WebSDK.
-
-[View repository](https://github.com/OlamilekanCode/biometric-attendance-system)
+---
 
 ## Technical Focus
 
-- **Languages:** TypeScript, JavaScript, Python, and PHP
-- **Frontend:** React, Next.js, and Tailwind CSS
-- **Backend:** Node.js (Express), NestJS, FastAPI, and Laravel
-- **Databases:** PostgreSQL, MySQL, MongoDB, and SQLite
-- **Data access:** Prisma, Drizzle ORM, SQLAlchemy, and Laravel Eloquent
-- **AI:** Model and API integrations, multimodal workflows, and AI-enabled application features
-- **Infrastructure:** Docker, GitHub Actions, Cloudflare D1/R2, and cloud deployment
-- **APIs and integrations:** REST APIs, webhooks, authentication, and third-party services
+| Area | Tools |
+| --- | --- |
+| **Languages** | TypeScript, JavaScript, Python, PHP |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Backend** | Node.js (Express), NestJS, Hono, FastAPI, Laravel |
+| **Databases** | PostgreSQL, MySQL, MongoDB, SQLite, Cloudflare D1 |
+| **Data access** | Prisma, Drizzle ORM, SQLAlchemy, Eloquent |
+| **Infrastructure** | Cloudflare Workers / D1 / R2, Docker, GitHub Actions, Vercel |
+| **AI** | Model and API integrations, multimodal workflows, AI-enabled product features |
+| **Practices** | REST API design, webhooks, authentication, testing, CI/CD, technical documentation |
 
-## Engineering Approach
+---
 
-I care about clear product scope, maintainable architecture, secure data flows, useful validation and error states, testing important behaviour, and documentation that helps other engineers understand and maintain the system.
+## How I Work
 
-## Current Focus
+Clear product scope before code. Maintainable architecture over clever abstractions. Secure data flows, real validation and error states, tests on the behaviour that matters, and documentation another engineer can actually pick up and use.
 
-I am bringing more of my NestJS, FastAPI, and Laravel work into public repositories while improving test coverage, continuous integration, and engineering documentation across my selected projects.
+## Currently
+
+Building developer tooling on Cloudflare Workers, and moving more of my NestJS, FastAPI, and Laravel work into public repositories with proper CI and test coverage.
 
 ## Contact
 
-- **Email:** [adebukolaolamilekan123@gmail.com](mailto:adebukolaolamilekan123@gmail.com)
+- **Email:** adebukolaolamilekan123@gmail.com
 - **X:** [@olamiltechlife](https://x.com/olamiltechlife)
+- Open to full-time roles, freelance and contract work.
+
+---
+
+*Pinned repositories below.*
